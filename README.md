@@ -1,2 +1,4 @@
 # calc-module
-Simple calc module with ... parameters:
+Simple calc module.
+<br>
+calc();
